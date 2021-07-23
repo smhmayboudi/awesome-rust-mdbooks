@@ -11,6 +11,7 @@ A card catalog of mdBooks for your reading curiosity.
 | [Amethyst](https://book.amethyst.rs/book) | The Amethyst game engine book | [GitHub](https://github.com/amethyst/amethyst) |
 | [Async Book](https://rust-lang.github.io/async-book) | Asynchronous Programming in Rust | [GitHub](https://github.com/rust-lang/async-book) |
 | [Async Std Book](https://book.async.rs) | Async programming in Rust with async-std | [GitHub](https://github.com/async-rs/async-std/tree/master/docs) |
+| [CXX — safe interop between Rust and C++](https://cxx.rs) | ... | [GitHub](https://github.com/dtolnay/cxx) |
 | [Cargo](https://doc.rust-lang.org/cargo) | The cargo book | [GitHub](https://github.com/rust-lang/cargo/tree/master/src/doc/src) |
 | [Command Line Applications in Rust](https://rust-cli.github.io/book) | A book about writing CLI's in Rust | [GitHub](https://github.com/rust-lang-nursery/cli-wg/tree/master/src) |
 | [Discovery](https://docs.rust-embedded.org/discovery) | The Discovery Book will teach you about microcontrollers, peripherals, sensors and bare metal programming in Rust | [GitHub](https://github.com/rust-embedded/discovery) |
