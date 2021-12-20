@@ -13,9 +13,10 @@ A card catalog of mdBooks for your reading curiosity.
 | [Async Std Book](https://book.async.rs) | Async programming in Rust with async-std | [GitHub](https://github.com/async-rs/async-std/tree/master/docs) |
 | [CXX — safe interop between Rust and C++](https://cxx.rs) | ... | [GitHub](https://github.com/dtolnay/cxx) |
 | [Cargo](https://doc.rust-lang.org/cargo) | The cargo book | [GitHub](https://github.com/rust-lang/cargo/tree/master/src/doc/src) |
-| [Command Line Applications in Rust](https://rust-cli.github.io/book) | A book about writing CLI's in Rust | [GitHub](https://github.com/rust-lang-nursery/cli-wg/tree/master/src) |
+| [Command Line Applications in Rust](https://rust-cli.github.io/book) | A book about writing CLI's in Rust | [GitHub](https://github.com/rust-cli/book) |
 | [Discovery](https://docs.rust-embedded.org/discovery) | The Discovery Book will teach you about microcontrollers, peripherals, sensors and bare metal programming in Rust | [GitHub](https://github.com/rust-embedded/discovery) |
 | [Firefox Data Documentation](https://docs.telemetry.mozilla.org) | A guide for interpreting data gathered by the Firefox Telemetry system | [GitHub](https://github.com/mozilla/data-docs) |
+| [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org) | ... | [GitHub](https://github.com/rust-lang/rustc-dev-guide) |
 | [Hello wasm-pack!](https://rustwasm.github.io/docs/wasm-pack) | The wasm-pack guide | [GitHub](https://github.com/rustwasm/wasm-pack/tree/master/docs/src) |
 | [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists) | ... | [GitHub](https://github.com/rust-unofficial/too-many-lists) |
 | [Pest Book](https://pest.rs/book) | A thoughtful introduction to the pest parser | [GitHub](https://github.com/pest-parser/book) |
