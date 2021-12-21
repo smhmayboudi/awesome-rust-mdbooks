@@ -25,6 +25,7 @@ A card catalog of mdBooks for your reading curiosity.
 | [Rust By Example](https://doc.rust-lang.org/rust-by-example) | ... | [GitHub](https://github.com/rust-lang/rust-by-example) |
 | [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook) | Recipes using curated crates | [GitHub](https://github.com/rust-lang-nursery/rust-cookbook)
 | [Rust Design Patterns](https://rust-unofficial.github.io/patterns) | ... | [GitHub](https://github.com/rust-unofficial/patterns) |
+| [Rust Forge](https://forge.rust-lang.org) | ... | [GitHub](https://github.com/rust-lang/rust-forge) |
 | [Rust Fuzz Book](https://rust-fuzz.github.io/book) | Guides and tutorials on how to fuzz Rust code | [GitHub](https://github.com/rust-fuzz/book) |
 | [Rust Programming Language](https://doc.rust-lang.org/book/2018-edition/foreword.html) | The book of Rust | [GitHub](https://github.com/rust-lang/book) |
 | [Rust SIMD Performance Guide](https://rust-lang.github.io/packed_simd/perf-guide) | ... | [GitHub](https://github.com/rust-lang/packed_simd/tree/master/perf-guide) |
@@ -32,6 +33,7 @@ A card catalog of mdBooks for your reading curiosity.
 | [Rustdoc Book](https://doc.rust-lang.org/rustdoc) | Guide for Rustdoc | [GitHub](https://github.com/rust-lang/rust/tree/master/src/doc/rustdoc) |
 | [Rusty Celery](https://rusty-celery.github.io) | ... | [GitHub](https://github.com/rusty-celery/rusty-celery.github.io) |
 | [Rusty ECMA Book](https://rusty-ecma.github.io/rusty-ecma-book) | Build JavaScript Development Tools with Rust | [GitHub](https://github.com/freemasen/rusty-ecma-book) |
+| [Standard library developers Guide](https://std-dev-guide.rust-lang.org) | ... | [GitHub](https://github.com/rust-lang/std-dev-guide) |
 | [Style Guidelines](https://doc.rust-lang.org/1.0.0/style) | ... | GitHub |
 | [The AVR-Rust Guidebook](https://book.avr-rust.com) | ... | [GitHub](https://github.com/avr-rust/book.avr-rust.com) |
 | [The Edition Guide](https://doc.rust-lang.org/edition-guide) | ... | [GitHub](https://github.com/rust-lang/edition-guide) |
