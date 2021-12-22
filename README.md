@@ -8,6 +8,7 @@ A card catalog of mdBooks for your reading curiosity.
 
 | Name | Description | Contribute |
 | - | - | - |
+| [A Guide to Porting C/C++ to Rust](https://locka99.gitbooks.io/a-guide-to-porting-c-to-rust/content/) | ... | GitHub |
 | [Amethyst](https://book.amethyst.rs/book) | The Amethyst game engine book | [GitHub](https://github.com/amethyst/amethyst) |
 | [Async Book](https://rust-lang.github.io/async-book) | Asynchronous Programming in Rust | [GitHub](https://github.com/rust-lang/async-book) |
 | [Async Std Book](https://book.async.rs) | Async programming in Rust with async-std | [GitHub](https://github.com/async-rs/async-std/tree/master/docs) |
@@ -37,6 +38,7 @@ A card catalog of mdBooks for your reading curiosity.
 | [Style Guidelines](https://doc.rust-lang.org/1.0.0/style) | ... | GitHub |
 | [The AVR-Rust Guidebook](https://book.avr-rust.com) | ... | [GitHub](https://github.com/avr-rust/book.avr-rust.com) |
 | [The Edition Guide](https://doc.rust-lang.org/edition-guide) | ... | [GitHub](https://github.com/rust-lang/edition-guide) |
+| [The Embedded Rust Book](https://doc.rust-lang.org/stable/embedded-book) | ... | [GitHub](https://github.com/rust-embedded/book) |
 | [The Embedded Rust Book](https://docs.rust-embedded.org/book) | The Embedded Rust Book will get you up to speed with embedded Rust development | [GitHub](https://github.com/rust-embedded/book) |
 | [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon) | For those that want to dive into the implementation of the foundational crates of the embedded ecosystem | [GitHub](https://github.com/rust-embedded/embedonomicon) |
 | [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book) | ... | [GitHub](https://github.com/DanielKeep/tlborm) |
