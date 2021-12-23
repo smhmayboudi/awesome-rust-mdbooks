@@ -51,6 +51,7 @@ A card catalog of mdBooks for your reading curiosity.
 | [The bindgen User Guide](https://rust-lang.github.io/rust-bindgen) | ... | [GitHub](https://github.com/rust-lang/rust-bindgen/tree/master/book) |
 | [The rustc Book](https://doc.rust-lang.org/rustc) | ... | [GitHub](https://github.com/rust-lang/rust/tree/master/src/doc/rustc) |
 | [The rustup Book](https://rust-lang.github.io/rustup) | ... | [GitHub](https://github.com/rust-lang/rustup/tree/master/doc) |
+| [WasmEdge Runtime](https://wasmedge.org/book/en) | ... | [GitHub](https://github.com/WasmEdge/WasmEdge) |
 
 ## Contributing
 
