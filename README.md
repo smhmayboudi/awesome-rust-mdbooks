@@ -8,7 +8,7 @@ A card catalog of mdBooks for your reading curiosity.
 
 | Name | Description | Contribute |
 | - | - | - |
-| [A Guide to Porting C/C++ to Rust](https://locka99.gitbooks.io/a-guide-to-porting-c-to-rust/content/) | ... | GitHub |
+| [A Guide to Porting C/C++ to Rust](https://locka99.gitbooks.io/a-guide-to-porting-c-to-rust/content) | ... | GitHub |
 | [Amethyst](https://book.amethyst.rs/book) | The Amethyst game engine book | [GitHub](https://github.com/amethyst/amethyst) |
 | [Async Book](https://rust-lang.github.io/async-book) | Asynchronous Programming in Rust | [GitHub](https://github.com/rust-lang/async-book) |
 | [Async Std Book](https://book.async.rs) | Async programming in Rust with async-std | [GitHub](https://github.com/async-rs/async-std/tree/master/docs) |
@@ -52,6 +52,13 @@ A card catalog of mdBooks for your reading curiosity.
 | [The rustc Book](https://doc.rust-lang.org/rustc) | ... | [GitHub](https://github.com/rust-lang/rust/tree/master/src/doc/rustc) |
 | [The rustup Book](https://rust-lang.github.io/rustup) | ... | [GitHub](https://github.com/rust-lang/rustup/tree/master/doc) |
 | [WasmEdge Runtime](https://wasmedge.org/book/en) | ... | [GitHub](https://github.com/WasmEdge/WasmEdge) |
+
+### EXTRA
+
+| Name | Description | Contribute |
+| - | - | - |
+| [C and C++ Background](https://locka99.gitbooks.io/a-guide-to-porting-c-to-rust/content/c_and_cpp_background) | ... | [GitHub](https://github.com/shepmaster/rust-ffi-omnibus) |
+| [The Rust FFI Omnibus](https://jakegoulding.com/rust-ffi-omnibus/basics) | ... | GitHub |
 
 ## Contributing
 
