@@ -58,6 +58,7 @@ A card catalog of mdBooks for your reading curiosity.
 | Name | Description | Contribute |
 | - | - | - |
 | [A Guide to Porting C/C++ to Rust](https://locka99.gitbooks.io/a-guide-to-porting-c-to-rust/content/) | ... | [GitHub](https://github.com/shepmaster/rust-ffi-omnibus) |
+| [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) | ... | [GitScm](https://git.ralfj.de/rust-101.git) |
 | [The Rust FFI Omnibus](https://jakegoulding.com/rust-ffi-omnibus/basics) | ... | GitHub |
 
 ## Contributing
